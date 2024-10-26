@@ -63,6 +63,16 @@ namespace DoAnWinform.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2997279 {
+            get {
+                object obj = ResourceManager.GetObject("2997279", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _751463 {
             get {
                 object obj = ResourceManager.GetObject("751463", resourceCulture);
@@ -76,6 +86,16 @@ namespace DoAnWinform.Properties {
         internal static System.Drawing.Bitmap _7514631 {
             get {
                 object obj = ResourceManager.GetObject("7514631", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2024_10_23_010512 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2024-10-23 010512", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -76,9 +76,9 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label4.Location = new System.Drawing.Point(869, 86);
+            this.label4.Location = new System.Drawing.Point(842, 82);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(210, 63);
+            this.label4.Size = new System.Drawing.Size(206, 61);
             this.label4.TabIndex = 0;
             this.label4.Text = "Đăng kí";
             // 
